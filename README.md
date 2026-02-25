@@ -35,7 +35,17 @@ The stack is designed for production deployment with strict typing, runtime sche
 
 ## Product Preview
 
-Reference screenshot (as provided): a minimalist white-background report interface with a large **Natal Wheel** on the left, and a structured right rail showing identity/birth metadata (date, time, timezone, location, system, UTC, Julian values), followed by compact **Planet positions** and **Objects** tables. A contextual hover panel appears over the chart (example: *Moon in Capricorn*) with concise sign/house interpretation text, matching the app's editorial black/gray visual system with thin separators and no heavy card chrome.
+### Main report view
+
+![Open Chart main report view](./public/docs/open-chart.webp)
+
+Minimalist white-background report interface with a large **Natal Wheel** on the left and a structured right rail showing identity/birth metadata (date, time, timezone, location, system, UTC, Julian values), followed by compact **Planet positions** and **Objects** tables. A contextual hover panel appears over the chart (example: *Moon in Capricorn*) with concise sign/house interpretation text, matching the app's editorial black/gray visual system with thin separators and no heavy card chrome.
+
+### All Aspect Dynamics table
+
+![Open Chart all aspect dynamics table](./public/docs/aspects.webp)
+
+Tabular aspect analysis with columns for **Aspect**, **Type**, **Phase**, **Orb**, **Strength**, and **Class** (Major/Minor), designed for quick astrologer-grade scanning and comparison.
 
 ## Core Features
 
